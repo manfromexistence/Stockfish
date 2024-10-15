@@ -96,8 +96,7 @@ recommended to run `make help` to see a list of make targets with corresponding
 descriptions. An example suitable for most Intel and AMD chips:
 
 ```
-cd src
-make -j profile-build
+
 ```
 
 Detailed compilation instructions for all platforms can be found in our
